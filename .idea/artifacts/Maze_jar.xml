@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Maze:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Maze_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Maze.jar">
+        <element id="module-output" name="Maze" />
+      </element>
+    </root>
+  </artifact>
+</component>
